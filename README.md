@@ -19,12 +19,12 @@
 
 - 🏢 Currently working as a Java Full Stack Developer with <a href="https://www.morganstanley.com">Morgan Stanley</a>
 - ⌨️ Extremely passionate about building scalable backend solutions to solve complex problems
-- ✍️ Have around 3 years of experience in developing distributed backend services and UI applications
-- 📕 Work on close sourced software for the organization I am employed to.
-- 🏆 Leader of college team that stood in 3rd place at Smart India Hackathon (conducted by Government Of India)
-- 🏅 Leader of Final Year project team that stood in 3rd place at Prakalpa (Maharashtra state level project display competition)
+- ✍️ I have around 3 years of experience in developing distributed backend services and UI applications
+- 📕 I work on close sourced software for the organization I am employed to.
+- 🏆 I was the leader of my college team that stood in 3rd place at Smart India Hackathon (conducted by The Government Of India)
+- 🏅 I was the leader of Final Year Graduation project team that stood in 3rd place at Prakalpa (Maharashtra State Level project competition)
 - 🗒️ Please refer to my [Resume](Rishi's%20Resume.pdf) to know more about my individual software contributions
-- 🤝 I am happy to collaborate on any project/ freelance work/ participating in a hackathon. You can reach me on <a href="https://www.linkedin.com/in/rishi-ghai-7675b3184/">LinkedIn</a> OR drop me an email on <b>rishighai97@gmail.com</b> to get in touch
+- 🤝 I am happy to collaborate on any Project/ Freelance work/ Hackathon which is interesting. You can reach me on <a href="https://www.linkedin.com/in/rishi-ghai-7675b3184/">LinkedIn</a> OR drop me an email on <b>rishighai97@gmail.com</b> to get in touch
 
 ### 🛠 &nbsp;Tech Stack and Tools :
 <table border="10">
